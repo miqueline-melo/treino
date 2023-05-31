@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class IdadeEmDias04 {
+public class IdadeEmDias {
     public static void main(String[] args) {
 
         int dia=0, mes=0, ano=0, idade;

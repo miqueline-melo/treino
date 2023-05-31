@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class IpiPecas05 {
+public class IpiPecas {
     public static void main(String[] args) {
 
         double porcIpi, valorDasPeças, codigoPeça1, valorUnitarioPeca1, quantPeças1, codigoPeça2, valorUnitarioPeca2, quantPeças2;

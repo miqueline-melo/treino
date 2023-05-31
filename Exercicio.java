@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class Exercicio02 {
+public class Exercicio {
     public static void main(String[] args) {
 
         int sexo, qtMulheres=0, qtHomens=0;

@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class Vetor17 {
+public class Vetor {
     public static void main(String[] args) {
 
         int[] VET = new int[50];

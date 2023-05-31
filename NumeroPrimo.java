@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class NumeroPrimo11 {
+public class NumeroPrimo {
     public static void main(String[] args) {
 
         int inicio,fim, primo=0;

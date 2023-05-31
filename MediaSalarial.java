@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class MediaSalarial07 {
+public class MediaSalarial {
     public static void main(String[] args) {
 
         double salario1, salario2, salario3, salario4, mediaSalarial, mediaDeSofrimento, notaFuncionario1, notaFuncionario2, notaFuncionario3, notaFuncionario4;

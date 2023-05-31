@@ -1,6 +1,6 @@
 package treino;
 
-public class Saldo14 {
+public class Saldo {
     public static void main(String[] args) {
         double saldo, acrescimo, total;
 

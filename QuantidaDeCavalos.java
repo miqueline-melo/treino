@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class QuantidaDeCavalos12 {
+public class QuantidaDeCavalos {
     public static void main(String[] args) {
 
         double m, h, t, cavalos;

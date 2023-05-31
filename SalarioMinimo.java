@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class SalarioMinimo13 {
+public class SalarioMinimo {
     public static void main(String[] args) {
         double salMinimo, salUsuario, quantSalMinimo;
 
