@@ -1,6 +1,6 @@
-package treino.lampada.teste;
+package treino.Lampada.teste;
 
-import treino.lampada.dominio.Lampada;
+import treino.Lampada.dominio.Lampada;
 
 public class LampadaTest {
     public static void main(String[] args) {

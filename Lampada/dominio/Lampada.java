@@ -1,4 +1,4 @@
-package treino.lampada.dominio;
+package treino.Lampada.dominio;
 
 public class Lampada {
     String tipo, cor, marca;
