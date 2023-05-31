@@ -1,9 +1,8 @@
 package treino;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class exercicio {
+public class Exercicio02 {
     public static void main(String[] args) {
 
         int sexo, qtMulheres=0, qtHomens=0;

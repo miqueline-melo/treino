@@ -1,6 +1,6 @@
 package treino;
 
-public class MediaSalarial2 {
+public class MediaSalarial08 {
     public static void main(String[] args) {
 
         double nota1, nota2, nota3, nota4, media;

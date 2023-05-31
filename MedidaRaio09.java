@@ -1,6 +1,6 @@
 package treino;
 
-public class medidaRaio {
+public class MedidaRaio09 {
     public static void main(String[] args) {
 
         double raio, perimetro, area;

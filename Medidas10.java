@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class medidas {
+public class Medidas10 {
     public static void main(String[] args) {
 
         double alturaParede, larguraDaParede, alturaAzulejo, larguraAzuleijo, areaDoAzuledo, areaDaparede, quantidadeAzulejo;

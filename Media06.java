@@ -1,6 +1,6 @@
 package treino;
 
-public class media {
+public class Media06 {
     public static void main(String[] args) {
 
         int valor1 = 8, valor2 = 9, valor3 = 7;

@@ -1,6 +1,6 @@
 package treino;
 
-public class volume {
+public class Volume18 {
     public static void main(String[] args) {
         double v, r, a;
 

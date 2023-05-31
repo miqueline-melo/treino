@@ -1,9 +1,8 @@
 package treino;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class vetor {
+public class Vetor17 {
     public static void main(String[] args) {
 
         int[] VET = new int[50];

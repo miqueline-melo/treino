@@ -1,6 +1,6 @@
 package treino;
 
-public class Temperatura {
+public class Temperatura16 {
     public static void main(String[] args) {
 
         double C, K, F, Re, Ra;

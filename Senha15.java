@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class senha {
+public class Senha15 {
     public static void main(String[] args) {
         int senha, codigo;
 

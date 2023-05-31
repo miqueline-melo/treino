@@ -1,6 +1,6 @@
 package treino;
 
-public class horario {
+public class Horario03 {
     public static void main(String[] args) {
 
         int hora, minuto, segundo, passado, falta;

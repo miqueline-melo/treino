@@ -2,7 +2,7 @@ package treino;
 
 import java.util.Scanner;
 
-public class custoCarro {
+public class CustoCarro01 {
     public static void main(String[] args) {
 
         double valorCarro, valorFinal, percentualDistribuidor, imposto;
