@@ -1,4 +1,4 @@
-package treino.apolicee.dominio;
+package treino.premio.dominio;
 
 public class Apolicee {
     String nomeSegurado;
