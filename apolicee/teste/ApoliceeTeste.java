@@ -1,6 +1,6 @@
-package treino.apolice.teste;
+package treino.apolicee.teste;
 
-import treino.apolice.dominio.Apolicee;
+import treino.apolicee.dominio.Apolicee;
 
 public class ApoliceeTeste {
     public static void main(String[] args) {
