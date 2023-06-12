@@ -1,12 +1,10 @@
 package treino.apolice.teste;
 
-import treino.apolice.dominio.Apolice;
+import treino.apolice.dominio.Apolicee;
 
-import java.util.Scanner;
-
-public class ApoliceTeste {
+public class ApoliceeTeste {
     public static void main(String[] args) {
-        Apolice apolice = new Apolice();
+        Apolicee apolice = new Apolicee();
         apolice.oferecerDesconto();
         apolice.setNomeSegurado("Jade");
         apolice.setIdadeSegurado(25);

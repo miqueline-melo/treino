@@ -1,8 +1,6 @@
 package treino.apolice.dominio;
 
-import java.util.Scanner;
-
-public class Apolice {
+public class Apolicee {
     String nomeSegurado;
     int idadeSegurado;
     double valorPremioApolice;
